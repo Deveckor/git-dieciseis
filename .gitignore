@@ -1,1 +1,9 @@
+#files
 confidencial.txt
+#folders
+carpeta1/carpeta2/carpeta3/
+
+#patterns
+*.css
+
+
